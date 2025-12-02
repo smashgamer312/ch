@@ -1,4 +1,4 @@
 #/usr/bin/bash
 
-echo hello, how are you?
-echo :)
+$ echo hello, how are you?
+$ echo :)
